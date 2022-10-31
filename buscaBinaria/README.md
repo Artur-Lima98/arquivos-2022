@@ -1,3 +1,4 @@
 Como rodar pelo terminal:
 
-gcc -o BuscaBinaria BuscaBinaria.c ./BuscaBinaria [CEP]
+gcc -o BuscaBinaria BuscaBinaria.c
+./BuscaBinaria [CEP]
